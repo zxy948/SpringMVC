@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Example_01" />
+    <file type="web" url="file://$PROJECT_DIR$/Example_02" />
+    <file type="web" url="file://$PROJECT_DIR$/Example_03_response" />
+    <file type="web" url="file://$PROJECT_DIR$/Example_04_RESTful" />
+    <file type="web" url="file://$PROJECT_DIR$/Example_Integeration" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_02/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_03_response/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_03_response/Example_04_REST/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_04_RESTful/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_Integeration/pom.xml" />
       </list>
     </option>
   </component>
