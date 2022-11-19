@@ -1,4 +1,4 @@
-package com.zhenghe.Config;
+package com.Proj.Config;
 
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.mapper.MapperScannerConfigurer;

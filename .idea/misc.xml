@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Example_03_response" />
     <file type="web" url="file://$PROJECT_DIR$/Example_04_RESTful" />
     <file type="web" url="file://$PROJECT_DIR$/Example_Integeration" />
+    <file type="web" url="file://$PROJECT_DIR$/Proj_SSM_01" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/Example_03_response/Example_04_REST/pom.xml" />
         <option value="$PROJECT_DIR$/Example_04_RESTful/pom.xml" />
         <option value="$PROJECT_DIR$/Example_Integeration/pom.xml" />
+        <option value="$PROJECT_DIR$/Proj_SSM_01/pom.xml" />
       </list>
     </option>
   </component>

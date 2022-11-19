@@ -1,7 +1,8 @@
-package com.zhenghe.Ctrl;
+package com.Proj.Ctrl;
 
-import com.zhenghe.domain.Book;
-import com.zhenghe.service.BookService;
+import com.Proj.domain.Book;
+import com.Proj.service.BookService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
