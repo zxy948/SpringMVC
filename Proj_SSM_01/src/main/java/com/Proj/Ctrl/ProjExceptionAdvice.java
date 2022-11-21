@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 public class ProjExceptionAdvice {
 
     /**
+     * MydoException
+     *
      * 处理系统异常
      * @param mydoException
      * @return
@@ -26,6 +28,8 @@ public class ProjExceptionAdvice {
     }
 
     /**
+     * Exception
+     *
      * 处理其他异常
      * @param e
      * @return
@@ -37,6 +41,8 @@ public class ProjExceptionAdvice {
     }
 
     /**
+     * bnsException
+     *
      * 处理业务异常
      * @param be
      * @return

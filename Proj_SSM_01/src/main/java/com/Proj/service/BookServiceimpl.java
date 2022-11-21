@@ -19,10 +19,12 @@ public class BookServiceimpl implements BookService {
 
     @Override
     public boolean save(Book book) {
-        if (bookDao.save(book)!=0){
-            return true;
-        }else
-            return false;
+//        if (bookDao.save(book)!=0){
+//            return true;
+//        }else
+//            return false;
+//        简化方式：
+        return bookDao.save(book) > 0;
     }
 
     @Override

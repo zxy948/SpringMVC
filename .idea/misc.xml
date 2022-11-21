@@ -6,7 +6,9 @@
     <file type="web" url="file://$PROJECT_DIR$/Example_02" />
     <file type="web" url="file://$PROJECT_DIR$/Example_03_response" />
     <file type="web" url="file://$PROJECT_DIR$/Example_04_RESTful" />
+    <file type="web" url="file://$PROJECT_DIR$/Example_05_Interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/Example_Integeration" />
+    <file type="web" url="file://$PROJECT_DIR$/MevenPlus_01_POJO" />
     <file type="web" url="file://$PROJECT_DIR$/Proj_SSM_01" />
   </component>
   <component name="MavenProjectsManager">
@@ -20,6 +22,8 @@
         <option value="$PROJECT_DIR$/Example_04_RESTful/pom.xml" />
         <option value="$PROJECT_DIR$/Example_Integeration/pom.xml" />
         <option value="$PROJECT_DIR$/Proj_SSM_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Example_05_Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/MevenPlus_01_POJO/pom.xml" />
       </list>
     </option>
   </component>

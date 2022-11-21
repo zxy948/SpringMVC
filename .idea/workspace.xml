@@ -2,62 +2,29 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Proj_SSM_01:war exploded" />
+      <artifact name="Example_05_Interceptor:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f7261a3-306d-45ce-9781-ea9df0d5fcc1" name="变更" comment="11-18-1">
-      <change afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Ctrl/ProjExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/exception/MydoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/exception/bnsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/Servletinit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringmvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringmvcSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/BookCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/ProjExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/domain/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/exception/MydoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/exception/bnsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/service/BookServiceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/js/axios-0.18.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/js/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/pages/books.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/elementui/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/elementui/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+    <list default="true" id="5f7261a3-306d-45ce-9781-ea9df0d5fcc1" name="变更" comment="11-19-1">
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/f461bd74-383c-4be3-b8fd-4ad35c6f37f5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f461bd74-383c-4be3-b8fd-4ad35c6f37f5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Config/MybatisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Ctrl/BookCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Ctrl/BookCtrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/service/BookServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/service/BookServiceimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/Servletinit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/Servletinit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/BookCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/BookCtrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/ProjExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/ProjExceptionAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/service/BookServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/service/BookServiceimpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,31 +71,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/JavaStudy/SpringMVC/Proj_SSM_01/src/main/webapp",
-    "project.structure.last.edited": "工件",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.20546448",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "spring.configuration.checksum": "2898a3702478ff135f8f9abf3b08bf0a",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaStudy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20546448&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;72a141a0bd8c4f3ed4d682e881f7de46&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ],
-    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言": [
-      "MySQL"
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言&quot;: [
+      &quot;MySQL&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.resp.Config" />
@@ -149,7 +117,7 @@
       <recent name="com.restful.Dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat 服务器.Proj_SSM_01">
+  <component name="RunManager" selected="Tomcat 服务器.Interceptor">
     <configuration name="BookserviceTest.testgetID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example_Integeration" />
       <extension name="coverage">
@@ -282,6 +250,94 @@
         </option>
       </MavenSettings>
       <method v="2" />
+    </configuration>
+    <configuration name="Interceptor" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.81" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\IntelliJ IDEA 2022.1.2\jbr">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Example_05_Interceptor:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ddcbf95d-0053-41bb-8bf6-246798f3da7a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59906" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Example_05_Interceptor:war exploded" />
+        </option>
+      </method>
     </configuration>
     <configuration name="Proj_SSM_01" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.81" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\IntelliJ IDEA 2022.1.2\jbr">
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
@@ -552,6 +608,7 @@
       <item itemvalue="Maven.Example_03" />
       <item itemvalue="Maven.zhenghe" />
       <item itemvalue="Maven.Example_01" />
+      <item itemvalue="Tomcat 服务器.Interceptor" />
       <item itemvalue="Tomcat 服务器.Proj_SSM_01" />
       <item itemvalue="Tomcat 服务器.Tomcat 8.5.81" />
       <item itemvalue="Tomcat 服务器.tomcat_zhenghe" />
@@ -580,7 +637,10 @@
       <workItem from="1668595199491" duration="4628000" />
       <workItem from="1668685822272" duration="13669000" />
       <workItem from="1668744815882" duration="2765000" />
-      <workItem from="1668825899241" duration="13751000" />
+      <workItem from="1668825899241" duration="14119000" />
+      <workItem from="1668929068437" duration="5831000" />
+      <workItem from="1669013566575" duration="1863000" />
+      <workItem from="1669016939713" duration="100000" />
     </task>
     <task id="LOCAL-00001" summary="11-18-1">
       <created>1668769330842</created>
@@ -589,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668769330842</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11-19-1">
+      <created>1668867277223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668867277223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +676,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="11-18-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-18-1" />
+    <MESSAGE value="11-19-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-19-1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SpringMVC$BookserviceTest_testgetID__1_.ic" NAME="BookserviceTest.testgetID (1) 覆盖结果" MODIFIED="1668700614358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

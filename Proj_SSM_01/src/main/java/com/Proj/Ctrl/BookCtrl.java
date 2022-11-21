@@ -8,13 +8,13 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@RestController
+@RestController//REST风格的Controller处理器
 @RequestMapping("/books")
 @ResponseBody
 public class BookCtrl {
 
     @Autowired
-    private BookService bookService;
+    private BookService bookService;//此处报错并不影响程序运行；（因为定义的是接口类型）
 
     @PostMapping
     public Result save(@RequestBody Book book) {
