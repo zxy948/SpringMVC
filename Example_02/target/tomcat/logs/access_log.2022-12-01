@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/Dec/2022:20:42:11 +0800] "POST /Example_02/book/sell HTTP/1.1" 200 15 http-bio-8080-exec-1 66
+127.0.0.1 - - [01/Dec/2022:20:42:29 +0800] "POST /Example_02/book/sell HTTP/1.1" 200 15 http-bio-8080-exec-3 2
+127.0.0.1 - - [01/Dec/2022:20:43:15 +0800] "POST /Example_02/book/Listdata HTTP/1.1" 200 14 http-bio-8080-exec-5 7
+127.0.0.1 - - [01/Dec/2022:20:43:21 +0800] "POST /Example_02/book/Mapdata HTTP/1.1" 200 - http-bio-8080-exec-7 12
+127.0.0.1 - - [01/Dec/2022:20:45:42 +0800] "POST /Example_02/book/sell HTTP/1.1" 200 15 http-bio-8080-exec-1 55
+127.0.0.1 - - [01/Dec/2022:20:46:18 +0800] "POST /Example_02/book/sell HTTP/1.1" 200 15 http-bio-8080-exec-3 3
+127.0.0.1 - - [01/Dec/2022:20:47:48 +0800] "POST /Example_02/ HTTP/1.1" 200 52 http-bio-8080-exec-5 18
+127.0.0.1 - - [01/Dec/2022:20:47:59 +0800] "POST /Example_02/book/sell HTTP/1.1" 200 15 http-bio-8080-exec-7 3
+127.0.0.1 - - [01/Dec/2022:20:48:49 +0800] "POST /Login HTTP/1.1" 404 - http-bio-8080-exec-9 0

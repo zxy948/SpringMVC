@@ -1,0 +1,7 @@
+com\datatranmission\Domain\Book.class
+com\datatranmission\Domain\User.class
+com\datatranmission\springController\UserCtroller.class
+com\datatranmission\springController\BookController.class
+com\datatranmission\SpConfig\Servletinit.class
+com\datatranmission\SpConfig\SpringConfig.class
+com\datatranmission\SpConfig\SpringmvcConfig.class
