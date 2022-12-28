@@ -1,6 +1,7 @@
 package com.zhenghe.Dao;
 
-import com.zhenghe.domain.Book;
+
+import domain.Book;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Select;

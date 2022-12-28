@@ -10,14 +10,14 @@ import javax.sql.DataSource;
 
 
 public class JdbcConfig {
-    @Value("${jdbc.username}")
-    private String username;
-    @Value("${jdbc.password}")
-    private String password;
-    @Value("${jdbc.driver}")
-    private String driver;
-    @Value("${jdbc.url}")
-    private String url;
+        @Value("${jdbc.username}")
+        private String username;
+        @Value("${jdbc.password}")
+        private String password;
+        @Value("${jdbc.driver}")
+        private String driver;
+        @Value("${jdbc.url}")
+        private String url;
 
     /**
      * 第三方数据资源配置类

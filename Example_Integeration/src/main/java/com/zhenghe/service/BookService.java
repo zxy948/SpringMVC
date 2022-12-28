@@ -1,8 +1,6 @@
 package com.zhenghe.service;
 
-
-import com.zhenghe.domain.Book;
-import org.springframework.transaction.annotation.Transactional;
+import domain.Book;
 
 import java.util.List;
 //@Transactional

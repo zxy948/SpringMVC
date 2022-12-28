@@ -1,4 +1,4 @@
-package com.zhenghe.domain;
+package domain;
 
 public class Book {
         private int id;

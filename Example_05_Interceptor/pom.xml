@@ -5,11 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>Example_Integeration</artifactId>
+  <artifactId>Example_05_Interceptor</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -17,16 +15,6 @@
   </properties>
 
   <dependencies>
-
-<!--  maven 分模块开发
-  此项目需要依赖POJO项目的domain运行，导入对应坐标-->
-
-    <dependency>
-      <groupId>org.example</groupId>
-      <artifactId>MevenPlus_01_POJO</artifactId>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
-
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
@@ -80,12 +68,12 @@
       <artifactId>druid</artifactId>
       <version>1.2.15</version>
     </dependency>
-      <dependency>
-          <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
-          <version>4.13.2</version>
-          <scope>test</scope>
-      </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.2</version>
+      <scope>test</scope>
+    </dependency>
 
 
   </dependencies>
@@ -111,7 +99,4 @@
 
     </plugins>
   </build>
-
 </project>
-
-

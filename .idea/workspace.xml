@@ -9,22 +9,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f7261a3-306d-45ce-9781-ea9df0d5fcc1" name="变更" comment="11-19-1">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="5f7261a3-306d-45ce-9781-ea9df0d5fcc1" name="变更" comment="11-21-1&#10;maven高级">
+      <change afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/CorsConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/f461bd74-383c-4be3-b8fd-4ad35c6f37f5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f461bd74-383c-4be3-b8fd-4ad35c6f37f5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/Servletinit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/Servletinit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/BookCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/BookCtrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/ProjExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Ctrl/ProjExceptionAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/service/BookServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/service/BookServiceimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Integeration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Ctrl/BookCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Ctrl/BookCtrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/Dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/src/main/java/domain/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/service/BookServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Integeration/src/main/java/com/zhenghe/service/BookServiceimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MevenPlus_01_POJO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MevenPlus_01_POJO/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/JdbcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/JdbcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringmvcSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/SpringmvcSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/pages/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_SSM_01/src/main/webapp/pages/books.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +78,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JavaStudy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Brynnz/JavaEE_Proj&quot;,
     &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.20546448&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;72a141a0bd8c4f3ed4d682e881f7de46&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d294c20fe9bf0056a7b9708ca6775571&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -641,6 +639,14 @@
       <workItem from="1668929068437" duration="5831000" />
       <workItem from="1669013566575" duration="1863000" />
       <workItem from="1669016939713" duration="100000" />
+      <workItem from="1669017051024" duration="4428000" />
+      <workItem from="1669883112737" duration="5959000" />
+      <workItem from="1669898420061" duration="555000" />
+      <workItem from="1670076990456" duration="628000" />
+      <workItem from="1670210127900" duration="5370000" />
+      <workItem from="1670218138057" duration="2889000" />
+      <workItem from="1670329225047" duration="620000" />
+      <workItem from="1671533251660" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="11-18-1">
       <created>1668769330842</created>
@@ -656,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668867277223</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11-21-1&#10;maven高级">
+      <created>1669017080278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669017080278</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -677,7 +690,19 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="11-18-1" />
     <MESSAGE value="11-19-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-19-1" />
+    <MESSAGE value="11-21-1&#10;maven高级" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-21-1&#10;maven高级" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Proj_SSM_01/src/main/java/com/Proj/Config/CorsConfig.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SpringMVC$BookserviceTest_testgetID__1_.ic" NAME="BookserviceTest.testgetID (1) 覆盖结果" MODIFIED="1668700614358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
